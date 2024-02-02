@@ -3,16 +3,19 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
-      "logo": "image/logo.png",
+      "title": "Tekno%20UF",
+      "logo": "https://media-resource.spreading.io/docuo/workspace55/d42d372d2ce6a5784c2b57cfcd8d8b15/logo.png",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": "youtube.com/@teknouf"
     },
     "footer": {
       "logo": "image/logo.png",
